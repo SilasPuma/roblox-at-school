@@ -1,0 +1,23 @@
+# Roblox at School Configuration
+
+# General Settings
+school_name: "Downing Middle School"
+allowed_hours:
+  start: "08:00"  # Start time for Roblox access
+  end: "never"    # Roblox access runs indefinitely
+
+# Security Settings
+restrictions:
+  chat_enabled: true       # Enable in-game chat
+  private_servers: true    # Allow private game servers
+  external_links: false    # Disallow external links
+
+# User Permissions
+user_permissions:
+  - username: "student1"   # Example student username (open for everyone)
+    access_level: "standard"  # Standard access for all
+
+# Logging
+logging:
+  enabled: true   # Enable logging
+  log_file: "logs/roblox_log.txt"  # Log file path
