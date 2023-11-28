@@ -20,7 +20,7 @@ This project aims to provide a secure way for students to enjoy Roblox even whil
     ```
 
 2. **Follow Setup Instructions**
-    - Detailed instructions can be found in the `setup.md` file.
+    - Detailed instructions can be found in the `README.md` file.
 
 3. **Configure School Policies**
     - Adjust settings in the `config.yaml` file to align with your school's policies.
