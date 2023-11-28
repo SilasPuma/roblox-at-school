@@ -16,7 +16,7 @@ This project aims to provide a secure way for students to enjoy Roblox even whil
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/Roblox-at-School.git
+    git clone https://github.com/silaspuma/Roblox-at-School.git
     ```
 
 2. **Follow Setup Instructions**
